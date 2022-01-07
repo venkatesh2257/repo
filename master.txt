@@ -1,1 +1,2 @@
 this is my git practice fir 
+i am changingf the somthing in the first file for the checking the git committ
